@@ -7,3 +7,5 @@
 - [`wrf-python` ImportWarning](03-wrf-python.md)
 
 - [安装`CFGRIB`](04-CFGRIB.md)
+
+- [安装`PyCINRAD`](05-PyCINRAD.md)
