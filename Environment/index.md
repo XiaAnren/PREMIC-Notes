@@ -9,3 +9,5 @@
 - [安装`CFGRIB`](04-CFGRIB.md)
 
 - [安装`PyCINRAD`](05-PyCINRAD.md)
+
+- [更新`conda`](06-Conda.md)
