@@ -11,3 +11,5 @@
 - [安装`PyCINRAD`](05-PyCINRAD.md)
 
 - [更新`conda`](06-Conda.md)
+
+- [安装`XCB`依赖项](07-XCB.md)
