@@ -13,3 +13,5 @@
 - [更新`conda`](06-Conda.md)
 
 - [安装`XCB`依赖项](07-XCB.md)
+
+- [安装`Miniforge`](08-Miniforge.md)
