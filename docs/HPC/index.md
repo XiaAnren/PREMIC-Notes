@@ -13,4 +13,5 @@ maxdepth: 2
 20260406-X11
 20260628-share
 20260630-SSHFS
+20261020-rootkit
 ```
